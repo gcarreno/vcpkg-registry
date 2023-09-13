@@ -1,0 +1,6 @@
+{
+  "name": "nosocpp",
+  "version": "0.1.0",
+  "description": "NosoC++ is a C++ cryptographic library that provides various cryptographic functions to work with the Noso coin",
+  "homepage": "https://github.com/gcarreno/NosoCpp"
+}
